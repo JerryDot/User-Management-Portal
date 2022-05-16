@@ -1,3 +1,9 @@
+# Demo
+
+Sorry in advance for the awful css/styling
+
+![til](Demo.gif)
+
 ## Instructions to run the code:
 
 1. Run mongodb locally on the default host/port aka `localhost:27017`. I followed these instructions to get set up:
