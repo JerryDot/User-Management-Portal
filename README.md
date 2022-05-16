@@ -1,4 +1,12 @@
-# Demo
+# Daniel Hunt Solution
+
+## First Read
+
+Here is some discussion of the exercise. In particular, questions that I would ask to learn more about the requirements for this work, as well as ideas on how to approach the project in a work context:
+
+https://docs.google.com/presentation/d/1RxDiNmimNkIifcRXO5462nz7rSb5OVmS-VDw98ddrQw/
+
+## Demo
 
 Sorry in advance for the awful css/styling
 
@@ -23,7 +31,7 @@ Sorry in advance for the awful css/styling
    `npm run dev`
 7. Open browser to http://localhost:3000/users
 
-## Things left to do:
+## Things left to do for production:
 
 ### Backend:
 
